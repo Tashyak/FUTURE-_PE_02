@@ -1,42 +1,62 @@
-# Script 04 — Contrarian Hook
+Script 04 — Contrarian Hook
 
-Hook type: Contrarian  
-Tone: Casual review  
+Brand: Cafe (Kakinada)
+
+Hook type: Contrarian
+
+Tone: Casual reviewer
+
 Platform: Instagram Reels + YouTube Shorts
 
----
+Estimated read time: 20 seconds
+
+Instagram Reels Version
 
 [HOOK]
 
-"Not every cafe is worth visiting."
-
----
+"Not every cafe is actually worth visiting."
 
 [BODY]
 
-Some places look nice online but feel crowded or overpriced.  
-This cafe in Kakinada surprised me though.  
-The vibe is relaxed, the coffee is good, and the prices are reasonable.  
-It actually feels like a place you want to stay.
-
----
+Some places look great in photos but feel crowded or uncomfortable.  
+I didn't expect much when I came to this cafe in Kakinada.  
+But the vibe is relaxed, the coffee is good, and the prices are fair.  
+It's actually a place where you want to sit for a while.
 
 [CTA]
 
-"Next time you're in Kakinada, try this cafe."
-
----
+"Save this cafe for your next coffee break."
 
 [VISUAL DIRECTION]
 
-Creator entering cafe and showing environment.
+Creator walking into cafe then sitting down with coffee.
 
 ---
 
-[CAPTION]
+YouTube Shorts Version
 
-A cafe that actually feels comfortable.
+[HOOK — on-screen text overlay]
 
-Not just good photos.
+"NOT EVERY CAFE IS GOOD"
 
-#cafevibes #kakinada #coffeetime #coffeelovers #hangoutplace
+[HOOK — spoken]
+
+"Not every cafe you see online is actually worth visiting."
+
+[BODY]
+
+Some places look great on Instagram but don't feel comfortable in real life.  
+I tried this cafe in Kakinada expecting the same thing.  
+But the environment is calm, the coffee is good, and the seating is comfortable.  
+It actually feels like a place where you can relax.
+
+[CTA]
+
+"If you're nearby, try this cafe."
+
+[THUMBNAIL TEXT SUGGESTION]
+
+"WORTH VISITING"
+
+[VISUAL DIRECTION]
+Creator entering cafe, showing interior, ending with coffee shot.
