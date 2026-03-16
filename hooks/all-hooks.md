@@ -54,5 +54,8 @@ Identity Hooks
 (Call out a specific type of viewer)
 
 "If you're a student looking for a study cafe…"
+
 "If you love coffee and quiet places…"
+
 "If you need a chill place to work from…"
+
