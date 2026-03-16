@@ -1,42 +1,65 @@
-# Script 02 — Comparison Hook
+Script 02 — Comparison Hook
 
-Hook type: Comparison  
-Tone: Honest review  
+Brand: Cafe (Kakinada)
+
+Hook type: Comparison
+
+Tone: Honest review
+
 Platform: Instagram Reels + YouTube Shorts
 
----
+Estimated read time: 20 seconds
+
+Instagram Reels Version
 
 [HOOK]
 
 "I tried three cafes before finding this one."
 
----
-
 [BODY]
 
-Most cafes I visited were either too noisy or too expensive.  
-Then I found this cafe in Kakinada and decided to try it.  
-The place is cozy, the service is fast, and the prices are actually reasonable.  
-Now it's my regular coffee spot.
-
----
+Most of the places I went to were either too loud or overpriced.  
+I just wanted a comfortable place to sit and drink coffee.  
+Then I tried this cafe in Kakinada.  
+Good coffee, cozy seating, and the service is actually quick.  
+Now it's the spot I usually come to.
 
 [CTA]
 
-"Save this place for your next coffee break."
-
----
+"Next time you're in Kakinada, try this cafe."
 
 [VISUAL DIRECTION]
 
-Creator showing coffee, menu, and seating area.
+Creator walking into cafe, showing coffee cup and seating area. Relaxed tone.
 
 ---
 
-[CAPTION]
+YouTube Shorts Version
 
-Sometimes the best places are the ones you randomly find.
+[HOOK — on-screen text overlay]
 
-This cafe became my regular spot.
+"3 cafes later… found this."
 
-#coffeelovers #kakinada #cafevibes #coffeebreak #hangoutspot
+[HOOK — spoken]
+
+"I tried three different cafes before finding this one."
+
+[BODY]
+
+Most of them looked good online but didn't feel comfortable to sit in.  
+Either too noisy or the prices were just too high.  
+Then I came across this cafe in Kakinada and decided to try it.  
+The coffee is good, the seating is comfortable, and the vibe is actually relaxed.  
+Now it's my regular coffee spot.
+
+[CTA]
+
+"If you like cafes, you'll probably like this place."
+
+[THUMBNAIL TEXT SUGGESTION]
+
+"FINALLY A GOOD CAFE"
+
+
+[VISUAL DIRECTION]
+Creator showing coffee and interior of cafe while speaking.
