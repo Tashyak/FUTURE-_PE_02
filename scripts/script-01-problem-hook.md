@@ -8,9 +8,11 @@ Estimated read time: 20 seconds
 Instagram Reels Version
 
 [HOOK]
+
 "I just needed coffee and a quiet place to work."
 
 [BODY]
+
 Every cafe I tried was either crowded or way too noisy.  
 I couldn't focus for more than ten minutes.  
 Then I randomly walked into this cafe in Kakinada.  
@@ -18,9 +20,11 @@ The vibe is calm, the coffee is good, and the prices are actually reasonable.
 Now it's the place I come whenever I need to sit down and get work done.
 
 [CTA]
+
 "If you're in Kakinada, save this place for your next coffee break."
 
 [VISUAL DIRECTION]
+
 Creator sitting with laptop and coffee. Natural lighting. Casual environment. Show a quick shot of the cafe interior while talking.
 
 ---
@@ -28,12 +32,15 @@ Creator sitting with laptop and coffee. Natural lighting. Casual environment. Sh
 YouTube Shorts Version
 
 [HOOK — on-screen text overlay]
+
 "Needed coffee. Found a work spot."
 
 [HOOK — spoken]
+
 "I just needed coffee and a quiet place to finish some work."
 
 [BODY]
+
 I tried a couple cafes before this and none of them worked.  
 Too noisy, too crowded, or just uncomfortable to sit for long.  
 Then I walked into this cafe in Kakinada.  
