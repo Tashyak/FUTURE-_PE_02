@@ -1,8 +1,13 @@
 Script 01 — Problem Hook
+
 Brand: Cafe (Kakinada)
+
 Hook type: Pain / Situation
+
 Tone: Honest customer
+
 Platform: Instagram Reels + YouTube Shorts
+
 Estimated read time: 20 seconds
 
 Instagram Reels Version
@@ -48,10 +53,13 @@ The place is cozy, the coffee tastes good, and the environment is actually calm 
 Now whenever I need to work outside, this is where I come.
 
 [CTA]
+
 "If you're around Kakinada, check this place out."
 
 [THUMBNAIL TEXT SUGGESTION]
+
 "FOUND MY WORK CAFE"
 
 [VISUAL DIRECTION]
+
 Creator at a table with laptop and coffee. Quick shot of cafe environment mid-video.
